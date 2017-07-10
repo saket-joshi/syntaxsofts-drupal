@@ -1,0 +1,9 @@
+name: SyntaxSofts Base
+type: theme
+description: 'Standard theme to be used for the SyntaxSofts site'
+package: Core
+base theme: false
+core: '8.x'
+libraries:
+  - syntaxsofts_base/global-css
+  - syntaxsofts_base/global-js
